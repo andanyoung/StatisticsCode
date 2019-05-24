@@ -1,0 +1,6 @@
+.idea
+*.log
+.vscode
+*.htaccess
+*.DS_Store
+StatisticsCode.txt
